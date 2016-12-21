@@ -1,0 +1,2 @@
+# oracle
+Scripts útiles Oracle
